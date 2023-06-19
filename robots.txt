@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: /page36310942.html
+Disallow: /page36468452.html
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+
+
+Sitemap: https://etagi-development.tilda.ws/sitemap.xml
+Host: https://etagi-development.tilda.ws
